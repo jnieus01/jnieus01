@@ -1,5 +1,5 @@
 ### About me
 
-- 🎓 I'm currently completing my Master's at Vanderbilt University, studying Data Science
-- 🚀 My latest project was to build an ETL pipeline, database, and dashboard for an R&D startup
-- 🧩 My current learning interests are around modeling and analysis with graphs
+- 📓 I'm currently researching AI vision tuning and chatbot systems
+- 🚀 My latest project was to build an archaelogical site discovery AI from satellite imagery
+- 🧩 My current learning interests are related AI system design
