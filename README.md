@@ -4,7 +4,7 @@
 - 🚀 My latest project was to build an archaelogical site discovery AI from satellite imagery for the [GeoPACHA project](https://github.com/geopacha)
 - ✨ You can check out some of my personal projects, pinned below! I'll be giving my Github profile and project repos a makeover over the next few weeks.
 
-## Personal Porject Summaries
+## About my projects
 
 ### genai-social-simulator
 
