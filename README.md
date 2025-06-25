@@ -1,7 +1,7 @@
 ## About me
 
 - 🤖 I'm currently building a webapp for interacting with LLM agents for the [Vanderbilt BOT Lab](https://github.com/Vanderbilt-BOT-Lab)
-- 🚀 My latest project was to build an archaelogical site discovery AI from satellite imagery for the [GeoPACHA project]([https://github.com/geopacha](https://news.vanderbilt.edu/2023/09/06/wernke-and-huo-awarded-neh-grant-to-build-the-largest-imagery-survey-in-the-western-hemisphere-using-ai-assisted-archaeology/)) 
+- 🚀 My latest project was to build an archaelogical site discovery AI from satellite imagery for the [GeoPACHA project](https://news.vanderbilt.edu/2023/09/06/wernke-and-huo-awarded-neh-grant-to-build-the-largest-imagery-survey-in-the-western-hemisphere-using-ai-assisted-archaeology/)
 - ✨ You can check out some of my personal projects, pinned below! I'll be giving my Github profile and project repos a makeover over the next few weeks.
 
 ## About my projects
